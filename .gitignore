@@ -2,3 +2,7 @@ __pycache__/
 .env
 .venv/
 env/
+# SpecStory explanation file
+.specstory/
+# SpecStory explanation file
+.specstory/.what-is-this.md
